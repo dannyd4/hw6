@@ -33,7 +33,7 @@ public class CreateProduct {
             return this; 
         }
         else {
-            temp.name = "Поняла где поискать условие";
+            temp.name = "Условие";
             return this;
         }
          
